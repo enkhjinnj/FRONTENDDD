@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: rgb(216, 210, 116);
+  }
+
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #333;
+  }
+  
+  link {
+    padding: 20px;
+  }
+  
